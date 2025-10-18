@@ -229,3 +229,4 @@ public String protectedResource() {
 
 ## 授权协议
 本项目执行 [MIT](https://github.com/bestaone/HiAuth/blob/master/LICENSE) 协议
+<!-- Auto-update: 2025-10-18T10:40:44.779276 -->
